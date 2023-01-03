@@ -1,0 +1,348 @@
+22:53:19.816 [main] INFO  testCases.TC_001_AccountRegistrationTest - AccountRegistrationpage started
+22:53:21.901 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation page started
+22:53:22.391 [main] INFO  testCases.TC_001_AccountRegistrationTest - test ended
+22:53:26.272 [main] INFO  testCases.TC_002_AccountLoginTest - test started
+22:53:27.718 [main] INFO  testCases.TC_002_AccountLoginTest - login completed
+22:53:27.720 [main] INFO  testCases.TC_002_AccountLoginTest - myAccount started
+22:53:27.869 [main] INFO  testCases.TC_002_AccountLoginTest - target displayed
+22:53:27.869 [main] INFO  testCases.TC_002_AccountLoginTest - true
+22:53:27.869 [main] INFO  testCases.TC_002_AccountLoginTest - test finished
+22:53:35.269 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+22:53:35.269 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+22:53:36.094 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+22:53:37.042 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+22:53:37.042 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+22:53:47.083 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+22:53:47.084 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+22:53:47.084 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+22:53:47.087 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+22:53:47.087 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+22:53:47.515 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+22:53:48.147 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+22:53:48.147 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+22:53:58.210 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+22:53:58.218 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+22:53:58.218 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+22:53:58.221 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+22:53:58.222 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+22:53:58.749 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+22:53:59.542 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+22:53:59.543 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+22:54:09.582 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+22:54:09.583 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+22:54:09.583 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+22:54:09.586 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+22:54:09.586 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+22:54:10.124 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+22:54:10.897 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+22:54:10.897 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+22:54:20.972 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+22:54:20.972 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+22:54:20.972 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+22:54:20.975 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+22:54:20.976 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+22:54:21.715 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+22:54:22.780 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+22:54:22.780 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+22:54:32.821 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:00:41.343 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+23:00:41.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home page started
+23:00:47.200 [main] INFO  testCases.TC_001_AccountRegistrationTest - AccountRegistrationpage started
+23:00:49.119 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation page started
+23:00:49.642 [main] INFO  testCases.TC_001_AccountRegistrationTest - test ended
+23:00:55.178 [main] INFO  testCases.TC_002_AccountLoginTest - test started
+23:00:56.964 [main] INFO  testCases.TC_002_AccountLoginTest - login completed
+23:00:56.966 [main] INFO  testCases.TC_002_AccountLoginTest - myAccount started
+23:00:57.114 [main] INFO  testCases.TC_002_AccountLoginTest - target displayed
+23:00:57.114 [main] INFO  testCases.TC_002_AccountLoginTest - true
+23:00:57.114 [main] INFO  testCases.TC_002_AccountLoginTest - test finished
+23:01:08.710 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:01:08.712 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:01:09.448 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:01:10.835 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:01:10.835 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:01:20.906 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:01:20.908 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:01:20.908 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:01:20.914 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:01:20.914 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:01:21.545 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:01:23.077 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:01:23.078 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:01:33.109 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:01:33.110 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:01:33.110 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:01:33.114 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:01:33.114 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:01:33.477 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:01:34.119 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:01:34.119 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:01:44.136 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:01:44.137 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:01:44.137 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:01:44.140 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:01:44.140 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:01:44.619 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:01:45.381 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:01:45.381 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:01:55.449 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:01:55.450 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:01:55.450 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:01:55.452 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:01:55.453 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:01:55.912 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:01:57.263 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:01:57.263 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:01:57.311 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:01:57.703 [main] INFO  testCases.TC_003_DataDrivenTest - logout clicked
+23:01:57.703 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:01:57.703 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:11:11.126 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:11:11.133 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:11:11.800 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:11:12.657 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:11:12.657 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:11:22.777 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:11:22.794 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:11:22.795 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:11:22.927 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:11:22.927 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:11:23.876 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:11:24.837 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:11:24.838 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:11:34.880 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:11:34.881 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:11:34.881 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:11:34.883 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:11:34.884 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:11:35.239 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:11:35.844 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:11:35.845 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:11:45.856 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:11:45.856 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:11:45.856 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:11:45.861 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:11:45.861 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:11:46.199 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:11:46.840 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:11:46.840 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:11:56.855 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:11:56.855 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:11:56.855 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:11:56.864 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:11:56.864 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:11:57.190 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:11:58.050 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:11:58.050 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:11:58.122 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:11:58.518 [main] INFO  testCases.TC_003_DataDrivenTest - logout clicked
+23:11:58.519 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:11:58.519 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:12:51.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+23:12:51.913 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home page started
+23:12:52.500 [main] INFO  testCases.TC_001_AccountRegistrationTest - AccountRegistrationpage started
+23:12:54.219 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation page started
+23:12:54.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - test ended
+23:12:58.384 [main] INFO  testCases.TC_002_AccountLoginTest - test started
+23:12:59.979 [main] INFO  testCases.TC_002_AccountLoginTest - login completed
+23:12:59.982 [main] INFO  testCases.TC_002_AccountLoginTest - myAccount started
+23:13:00.068 [main] INFO  testCases.TC_002_AccountLoginTest - target displayed
+23:13:00.068 [main] INFO  testCases.TC_002_AccountLoginTest - true
+23:13:00.070 [main] INFO  testCases.TC_002_AccountLoginTest - test finished
+23:13:10.316 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:13:10.316 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:13:10.743 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:13:11.517 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:13:11.517 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:13:21.536 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:13:21.537 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:13:21.537 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:13:21.540 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:13:21.540 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:13:21.891 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:13:22.483 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:13:22.483 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:13:32.515 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:13:32.515 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:13:32.516 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:13:32.518 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:13:32.518 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:13:32.869 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:13:33.471 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:13:33.472 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:13:43.531 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:13:43.539 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:13:43.539 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:13:43.541 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:13:43.542 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:13:43.895 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:13:44.520 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:13:44.521 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:13:54.533 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:13:54.533 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:13:54.533 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:13:54.535 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:13:54.536 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:13:54.879 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:13:55.488 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:13:55.488 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:13:55.546 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:13:55.908 [main] INFO  testCases.TC_003_DataDrivenTest - logout clicked
+23:13:55.908 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:13:55.908 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:18:54.302 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+23:18:54.308 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home page started
+23:18:54.890 [main] INFO  testCases.TC_001_AccountRegistrationTest - AccountRegistrationpage started
+23:18:56.083 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation page started
+23:18:56.445 [main] INFO  testCases.TC_001_AccountRegistrationTest - test ended
+23:19:00.813 [main] INFO  testCases.TC_002_AccountLoginTest - test started
+23:19:02.169 [main] INFO  testCases.TC_002_AccountLoginTest - login completed
+23:19:02.173 [main] INFO  testCases.TC_002_AccountLoginTest - myAccount started
+23:19:02.247 [main] INFO  testCases.TC_002_AccountLoginTest - target displayed
+23:19:02.247 [main] INFO  testCases.TC_002_AccountLoginTest - true
+23:19:02.247 [main] INFO  testCases.TC_002_AccountLoginTest - test finished
+23:19:07.834 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:19:07.835 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:19:08.482 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:19:09.262 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:19:09.263 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:19:19.334 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:19:19.334 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:19:19.334 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:19:19.336 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:19:19.336 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:19:20.032 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:19:21.032 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:19:21.032 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:19:31.131 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:19:31.132 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:19:31.132 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:19:31.134 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:19:31.134 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:19:31.696 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:19:32.166 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:19:32.166 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:19:42.229 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:19:42.229 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:19:42.229 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:19:42.232 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:19:42.233 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:19:42.571 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:19:43.063 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:19:43.063 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:19:53.117 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:19:53.117 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:19:53.117 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:19:53.118 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:19:53.119 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:19:53.418 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:19:54.004 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:19:54.004 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:19:54.041 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:19:54.372 [main] INFO  testCases.TC_003_DataDrivenTest - logout clicked
+23:19:54.372 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:19:54.373 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:24:20.671 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+23:24:20.677 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home page started
+23:24:26.527 [main] INFO  testCases.TC_001_AccountRegistrationTest - AccountRegistrationpage started
+23:24:28.235 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation page started
+23:24:28.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - test ended
+23:24:35.302 [main] INFO  testCases.TC_002_AccountLoginTest - test started
+23:24:36.407 [main] INFO  testCases.TC_002_AccountLoginTest - login completed
+23:24:36.408 [main] INFO  testCases.TC_002_AccountLoginTest - myAccount started
+23:24:36.486 [main] INFO  testCases.TC_002_AccountLoginTest - target displayed
+23:24:36.486 [main] INFO  testCases.TC_002_AccountLoginTest - true
+23:24:36.486 [main] INFO  testCases.TC_002_AccountLoginTest - test finished
+23:24:41.932 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:24:41.933 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:24:42.407 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:24:43.178 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:24:43.178 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:24:53.244 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:24:53.244 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:24:53.244 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:24:53.245 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:24:53.245 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:24:53.561 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:24:54.135 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:24:54.136 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:25:04.188 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:25:04.188 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:25:04.188 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:25:04.190 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:25:04.190 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:25:04.518 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:25:05.119 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:25:05.120 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:25:15.145 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:25:15.146 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:25:15.146 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:25:15.147 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:25:15.147 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:25:15.478 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:25:16.073 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:25:16.074 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:25:26.132 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:25:26.132 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:25:26.132 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+23:25:26.133 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+23:25:26.133 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+23:25:26.470 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+23:25:27.098 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+23:25:27.098 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+23:25:27.155 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+23:25:27.445 [main] INFO  testCases.TC_003_DataDrivenTest - logout clicked
+23:25:27.446 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+23:25:27.446 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+10:07:57.909 [main] INFO  testCases.TC_001_AccountRegistrationTest - test started
+10:07:57.915 [main] INFO  testCases.TC_001_AccountRegistrationTest - Home page started
+10:07:58.757 [main] INFO  testCases.TC_001_AccountRegistrationTest - AccountRegistrationpage started
+10:08:00.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - Confirmation page started
+10:08:00.696 [main] INFO  testCases.TC_001_AccountRegistrationTest - test ended
+10:08:06.230 [main] INFO  testCases.TC_002_AccountLoginTest - test started
+10:08:07.635 [main] INFO  testCases.TC_002_AccountLoginTest - login completed
+10:08:07.644 [main] INFO  testCases.TC_002_AccountLoginTest - myAccount started
+10:08:07.737 [main] INFO  testCases.TC_002_AccountLoginTest - target displayed
+10:08:07.738 [main] INFO  testCases.TC_002_AccountLoginTest - true
+10:08:07.738 [main] INFO  testCases.TC_002_AccountLoginTest - test finished
+10:08:22.891 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+10:08:22.892 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+10:08:23.306 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+10:08:24.057 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+10:08:24.058 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+10:08:34.150 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+10:08:34.150 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+10:08:34.151 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+10:08:34.156 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+10:08:34.156 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+10:08:35.364 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+10:08:36.275 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+10:08:36.275 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+10:08:46.331 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+10:08:46.331 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+10:08:46.332 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+10:08:46.333 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+10:08:46.334 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+10:08:46.650 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+10:08:47.302 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+10:08:47.302 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+10:08:57.361 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+10:08:57.361 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+10:08:57.361 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+10:08:57.362 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+10:08:57.362 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+10:08:57.687 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+10:08:58.308 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+10:08:58.308 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+10:09:08.321 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+10:09:08.321 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+10:09:08.321 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
+10:09:08.323 [main] INFO  testCases.TC_003_DataDrivenTest - test started
+10:09:08.323 [main] INFO  testCases.TC_003_DataDrivenTest - Home page started
+10:09:08.639 [main] INFO  testCases.TC_003_DataDrivenTest - login page started
+10:09:09.326 [main] INFO  testCases.TC_003_DataDrivenTest - login page ended
+10:09:09.326 [main] INFO  testCases.TC_003_DataDrivenTest - MyAccount page stared
+10:09:09.381 [main] INFO  testCases.TC_003_DataDrivenTest - Data Driven test started
+10:09:09.679 [main] INFO  testCases.TC_003_DataDrivenTest - logout clicked
+10:09:09.680 [main] INFO  testCases.TC_003_DataDrivenTest - DataDriven test Ended
+10:09:09.680 [main] INFO  testCases.TC_003_DataDrivenTest - test ended
